@@ -21,6 +21,8 @@ npm run dev
 Редагування реалізовано за допомогою подвійного кліку
 На футтері інфо про тудушкі їхня кількість, їхня загальна кількість, не виконані(активні), виконані не активні
 
+DEMO -[https://anton-forzun.github.io/todo-list/]
+
 # Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
